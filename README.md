@@ -4,7 +4,7 @@
 ##### Final project for 'Search System and Recommendations' - Tel Aviv university 
 
 ##### Description: 
-This search project demonstrates search and results search by positional index.
+This search project demonstrates text search by positional index.
 <br/>
 The results are first the files where all the search words were found and then the files with some of the words.
 <br/>
